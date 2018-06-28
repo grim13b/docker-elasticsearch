@@ -1,0 +1,2 @@
+# docker-elasticsearch
+Elasticsearchとkibanaのローカルテスト用
